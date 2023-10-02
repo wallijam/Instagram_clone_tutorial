@@ -5,7 +5,7 @@
   "keywords": [],
   "main": "index.js",
   "dependencies": {
-    "debug": "4.1.1",
+    "debug": "4.3.1",
     "vue": "2.5.3",
     "vue-dragscroll": "1.4.2"
   }
